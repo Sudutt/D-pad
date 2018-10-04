@@ -2,7 +2,8 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 #import pyautogui,sys
-
+#fellow contributor: Sudutt Harne
+#fellow contributor: Jai Shukla
 
 def nothing(x):
     pass
